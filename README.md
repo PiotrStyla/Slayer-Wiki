@@ -42,24 +42,37 @@ Wiki wyjaśnia wszystkie trudne pojęcia (LLM, fine-tuning, benchmarki, tokeniza
 
 ---
 
-## 🔗 Szybki start w Obsidianie
+## � Jak pobrać Wiki na komputer?
 
-### 1. Pobierz Wiki
+### Sposób 1: Pobierz ZIP (najprostszy)
+1. Wejdź na: **https://github.com/PiotrStyla/Slayer-Wiki**
+2. Kliknij zielony przycisk **"<> Code"**
+3. Wybierz **"Download ZIP"**
+4. Rozpakuj pobrany plik ZIP
+5. Gotowe! Masz folder `Slayer-Wiki/` na komputerze
+
+### Sposób 2: Git (dla zaawansowanych)
 ```bash
 git clone https://github.com/PiotrStyla/Slayer-Wiki.git
 ```
 
-### 2. Dodaj do swojego vaultu
+---
 
-#### Opcja A: Jako osobny folder (polecane)
+## 🔗 Szybki start w Obsidianie
+
+### 1. Otwórz folder jako vault
+
+#### Opcja A: Jako osobny vault (najprostsza)
+1. Otwórz Obsidian
+2. Kliknij **"Otwórz folder jako vault"** ("Open folder as vault")
+3. Wybierz rozpakowany folder `Slayer-Wiki/`
+
+#### Opcja B: Jako osobny folder w istniejącym vault (polecane)
 1. Otwórz swój vault w Obsidianie
 2. Stwórz folder `Slayer-AI-Lab-Wiki/`
-3. Skopiuj wszystkie pliki `.md` z repo do tego folderu
+3. Skopiuj wszystkie pliki `.md` z folderu `Slayer-Wiki/Slayer-AI-Lab-Wiki/` do tego folderu
 
-#### Opcja B: Jako osobny vault
-1. Otwórz folder `Slayer-Wiki/` jako nowy vault w Obsidianie
-
-### 3. Otwórz graf
+### 2. Otwórz graf
 - Naciśnij `Ctrl + G` (lub `Cmd + G` na Mac)
 - W ustawieniach grafu ustaw **Grupy** według tagów
 
