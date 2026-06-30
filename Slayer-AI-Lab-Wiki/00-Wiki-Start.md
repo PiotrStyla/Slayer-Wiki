@@ -38,27 +38,21 @@ To jest Twoje miejsce startowe. Jeśli słyszysz pojęcia jak „LLM", „fine-t
 
 ### 📚 **Podstawy AI (bez żargonu)**
 - [[Slayer-AI-Lab-Wiki/Czym jest model językowy?]] — proste wyjaśnienie
-- [[Slayer-AI-Lab-Wiki/Co to jest trening modelu?]] — analogie i przykłady
+- [[Slayer-AI-Lab-Wiki/Jak działa trening modelu?]] — analogie i przykłady
 - [[Slayer-AI-Lab-Wiki/Jak mierzymy jakość modeli?]] — benchmarki prosto
-- [[Slayer-AI-Lab-Wiki/Open-source explained]] — dlaczego dzielimy się kodem
+- [[Slayer-AI-Lab-Wiki/Open-source wyjaśniony]] — dlaczego dzielimy się kodem
 
 ### 🛠️ **Projekt Slayer**
-- [[Slayer-AI-Lab-Wiki/Nasze cele]] — co budujemy i dlaczego
+- [[Slayer-AI-Lab-Wiki/Nasze cele i harmonogram]] — co budujemy i dlaczego
 - [[Slayer-AI-Lab-Wiki/Zespół i drabina rozwoju]] — jak dołączyć
-- [[Slayer-AI-Lab-Wiki/Harmonogram]] — co, kiedy i jak
-- [[Slayer-AI-Lab-Wiki/Wyniki]] — co już osiągnęliśmy
 
 ### 🤝 **Jak możesz pomóc**
-- [[Slayer-AI-Lab-Wiki/Rola nie-techniczna]] — jak pomóc bez kodowania
-- [[Slayer-AI-Lab-Wiki/Rola techniczna]] — dla programistów i badaczy
-- [[Slayer-AI-Lab-Wiki/Pierwsze kroki]] — praktyczny start
-- [[Slayer-AI-Lab-Wiki/Zasady współpracy]] — jak działamy
+- [[Slayer-AI-Lab-Wiki/Jak możesz pomóc?]] — praktyczny start
 
 ### 📖 **Słownik pojęć**
-- [[Slayer-AI-Lab-Wiki/A-Z pojęć]] — wszystkie trudne słowa wyjaśnione
+- [[Slayer-AI-Lab-Wiki/Słownik pojęć]] — wszystkie trudne słowa wyjaśnione
 - [[Slayer-AI-Lab-Wiki/Słownik skrótów i terminów]] — skróty (MIT, API, etc.) dla nieprogramistów
 - [[Slayer-AI-Lab-Wiki/FAQ]] — najczęstsze pytania
-- [[Slayer-AI-Lab-Wiki/Błędy i mity]] — czego nie wieszysz o AI
 
 ---
 
@@ -74,7 +68,7 @@ To jest Twoje miejsce startowe. Jeśli słyszysz pojęcia jak „LLM", „fine-t
 
 ## 💡 Jak używać tej Wiki
 
-1. **Klikaj na linki w nawiasach `[[Slayer-AI-Lab-Wiki/ ]]`** — prowadzą do innych stron
+1. **Klikaj na linki w nawiasach `[[ ]]`** — prowadzą do innych stron
 2. **Użyj przycisku "wstecz"** — wrócisz do poprzedniej strony
 3. **Nie martw się o zrozumienie wszystkiego naraz** — wracaj do trudnych tematów
 4. **Zadawaj pytania** — na Discordzie lub GitHubie
