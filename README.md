@@ -97,6 +97,20 @@ Inspiracja z [[Slayer-AI-Lab-Wiki/Jak działa trening modelu?]]
 
 ---
 
+## 👥 Chcesz pokazać znajomym?
+
+Mają Obsidiana? Daj im ten link:
+
+**[JAK-PRZEGLADAC-W-OBSIDIANIE.md](JAK-PRZEGLADAC-W-OBSIDIANIE.md)** — prosty przewodnik krok po kroku.
+
+Skrót:
+1. Pobierz ZIP z GitHub
+2. Rozpakuj
+3. Otwórz folder w Obsidianie
+4. Naciśnij **Ctrl + G** — kolorowy graf gotowy!
+
+---
+
 ## 👥 Jak pomóc?
 
 Każdy może pomóc:
